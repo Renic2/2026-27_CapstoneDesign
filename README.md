@@ -47,7 +47,7 @@
 |:---:|:---:|:---:|:---|
 | [양예인](https://github.com/YeinYang) | 22100135 | 로봇 인터페이스·측위 (팀장) | `mcu_bridge` 펌웨어(엔코더, IMU, 모터 PID, 워치독, micro-ROS), `brush_driver`, `teleop_keyboard`, URDF·센서 TF, 시뮬레이션 환경, `ekf_localizer`·`velocity_smoother`·`collision_monitor` 설정, 전장 배선 |
 | [박태현](https://github.com/qkrxogus1233) | 22102415 | 비전 인지 | `vision_detector` 데이터 수집·라벨링·학습, 연석 선 추출과 지면 투영, 배수구 위치와 낙엽 밀집도 추정, 주행부 하드웨어 설계·제작 |
-| [문의현](https://github.com/tbdtbd) | 22100102 | 거리·후방 감지 | `vehicle_fusion`(LiDAR와 차량 박스 결합), `ttc_estimator`(후방 TTC), 카메라·LiDAR 캘리브레이션, 청소 작업부 하드웨어 설계·제작 |
+| [문의현](https://github.com/___________________________________) | 22100102 | 거리·후방 감지 | `vehicle_fusion`(LiDAR와 차량 박스 결합), `ttc_estimator`(후방 TTC), 카메라·LiDAR 캘리브레이션, 청소 작업부 하드웨어 설계·제작 |
 | [최현수](https://github.com/Renic2) | 22100220 | Nav2·미션 통합  | `bt_navigator` 커스텀 BT, `planner_server` 연석·우회 플러그인, RPP와 costmap 튜닝, 자동 주행 launch, 통합 총괄, 전장 배선 |
 
 ---
